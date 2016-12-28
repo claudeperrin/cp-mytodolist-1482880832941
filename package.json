@@ -1,6 +1,6 @@
 {
   "name": "mytodolist",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "todo list cp",
   "main": "app.js",
   "scripts": {
