@@ -14,7 +14,7 @@ var urlencodedParser = bodyParser.urlencoded({ extended: false });
 var Cloudant = require('cloudant');
 
 var app = express();
-console.log("application migrée en Diego et DevOps");
+console.log("application migrée en Diego et DevOps - V1.0.2");
 console.log("process variables :" , process.env);
 // Définition de l'hôte et du port
 var host        = '0.0.0.0' || 'localhost';
